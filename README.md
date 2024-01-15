@@ -1,4 +1,5 @@
 # README
+Use Ruby 3.0  rails 6.0 and node 14
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
